@@ -1,0 +1,5 @@
+binary "https://github.com/nextbillion-ai/nextbillion-direction-ios/releases/download/v1/carthage/NbMapDirection.json" ~> 0.2.2
+binary "https://github.com/nextbillion-ai/nextbillion-map-ios/releases/download/v1/carthage/Nbmap.json" ~> 0.3.0
+binary "https://github.com/nextbillion-ai/nextbillion-turf-ios/releases/download/v1/carthage/Turf.json" ~> 0.1.0
+binary "https://github.com/nextbillion-ai/nextbillion-navigation-ios/releases/download/v1/carthage/NbmapCoreNavigation.json" ~> 0.3.0
+binary "https://github.com/nextbillion-ai/nextbillion-navigation-ios/releases/download/v1/carthage/NbmapNavigation.json" ~> 0.3.1
